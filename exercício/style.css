@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+.texto-resultado {
+    font-family: "Gravitas One", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-variation-settings: "wdth" 100;
+}

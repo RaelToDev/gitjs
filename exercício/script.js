@@ -6,7 +6,8 @@ function soma () {
 
     console.log("clicou soma", resultado);
 
-    let strong = document.getElementById('Strong');
-    strong.innerText = "Resultado: " = resultado;
+    let resultadoHTML = document.getElementById('resultado');
+    
+    resultadoHTML.innerHTML = resultado;
 }
 
